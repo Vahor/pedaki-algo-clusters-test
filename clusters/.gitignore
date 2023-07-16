@@ -1,0 +1,7 @@
+.idea
+node_modules
+yarn-error.log
+kmeans
+kmeans_vectorized
+graph-output
+graph-output_adjusted
